@@ -1,0 +1,26 @@
+{
+  "name": "Filethetic",
+  "tagline": "Decentralized data marketplace for secure dataset publishing, verification, and trading",
+  "description": "Filethetic is a decentralized service to create, verify, and trade synthetic datasets on Filecoin blockchain using Filecoin CDN, IPFS and Verifiable LLMs.",
+  "team": [
+    {
+      "name": "Filethetic Team",
+      "email": "contact@filethetic.xyz"
+    }
+  ],
+  "demo_url": "https://filethetic.vercel.app/",
+  "video_url": "https://drive.google.com/file/d/1bqVxEORYVPQ1Pvo9dj1t-Nee1N4T2sgX/view?usp=sharing",
+  "technologies": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Ethers.js",
+    "Wagmi",
+    "IPFS",
+    "Filecoin",
+    "FilCDN",
+    "USDFC",
+    "TailwindCSS",
+    "Shadcn UI"
+  ]
+}
